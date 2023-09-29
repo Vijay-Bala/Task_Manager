@@ -16,28 +16,28 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-bash
+``` bash
 git clone https://github.com/yourusername/task-manager.git
-
+```
 2. Create a virtual environment (optional but recommended):
-bash
+``` bash
 python -m venv env
-
+```
 3. Activate the virtual environment:
 
 - Windows: .\env\Scripts\activate
 - MacOS/Linux: source env/bin/activate
 
 4. Install the project dependencies:
-bash
+``` bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 Run the Flask application:
- bash
+``` bash
 python app.py
-
+```
 Open a web browser and navigate to http://localhost:5000 to access the Task Manager.
 
 ## Features
